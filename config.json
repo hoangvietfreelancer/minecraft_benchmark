@@ -1,0 +1,8 @@
+{
+    "server": "mis.viet1.tk",
+    "port": 25565,
+    "num_players": 48,
+    "spread_distance": 100,
+    "spread_range": 400,
+    "spread": false
+}
